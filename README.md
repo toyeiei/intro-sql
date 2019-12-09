@@ -24,4 +24,4 @@
 * EP12 - `CREATE TABLE` (coming soon)
 
 มีคำถาม? ทักแชทแอดได้ที่ [FB messenger](m.me/datarockie) :)
-ติดตามเราทาง facebook: [datarockie](https://www.facebook.com/datarockie)
+ติดตามเราทาง facebook: [DataRockie](https://www.facebook.com/datarockie)

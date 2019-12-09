@@ -39,6 +39,4 @@ FROM customers;
 
 ### มีคำถาม ทักแอดมาเลย
 
-ทักแชทแอดได้ที่ [FB messenger](https://m.me/datarockie) :)
-
-ติดตามเราทาง facebook: [DataRockie](https://www.facebook.com/datarockie)
+ทักแชทแอดได้ที่ [FB messenger](https://m.me/datarockie) หรือติดตามเราทาง facebook: [DataRockie](https://www.facebook.com/datarockie) :D

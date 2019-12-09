@@ -12,7 +12,7 @@ SQL ย่อมาจาก Structured (English) Query Language เป็นภ
 
 ### เรียนฟรีกับเรา
 
-นักเรียนสามารถดาวน์โหลด แจกจ่าย slide, example database, code ทั้งหมดใน GitHub นี้ได้โดยไม่ต้องขออนุญาต 
+นักเรียนสามารถดาวน์โหลด แจกจ่าย slide + code ทั้งหมดใน GitHub นี้ได้โดยไม่ต้องขออนุญาต :D
 
 แอดมีทำวีดีโอสอนแบบ full HD ความยาวสองชั่วโมง สมัครเรียนฟรีได้ที่เว็บไซต์ https://datarockie.com - Intro to SQL for Data Analysis (นักเรียนมากกว่า 3,800 คนลงเรียนคอร์สนี้แล้ว)
 

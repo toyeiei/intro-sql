@@ -6,7 +6,7 @@
 
 ### ทำไมต้องเรียน SQL
 
-SQL ย่อมาจาก Structured (English) Query Language เป็นภาษาทางการที่ใช้ทำงานกับ (relational) database มาตั้งแต่ปี 1970s คิดค้นโดยนักวิจัยของ IBM สำหรับงานด้าน data analytics SQL คือภาษาแรกที่ทุกคนควรเขียนให้เป็น จะได้ดึงข้อมูลจาก database มาวิเคราะห์ต่อได้ อ้างอิงจากเว็บไซต์ [payscale](https://www.payscale.com/research/TH/Job=Data_Analyst/Salary) รายได้เฉลี่ยของ SQL data analyst อยู่ที่ 360,000 บาทต่อปี (สูงสุดคือ 2 ล้านบาท)
+SQL ย่อมาจาก Structured (English) Query Language เป็นภาษาทางการที่ใช้ทำงานกับ (relational) database มาตั้งแต่ปี 1970s คิดค้นโดยนักวิจัยของ IBM สำหรับงานด้าน data analytics SQL คือภาษาแรกที่ทุกคนควรเขียนให้เป็น จะได้ดึงข้อมูลจาก database มาวิเคราะห์ต่อได้ อ้างอิงจากเว็บไซต์ [payscale](https://www.payscale.com/research/TH/Job=Data_Analyst/Salary) รายได้เฉลี่ยของ SQL data analyst อยู่ที่ 360,000 บาทต่อปี (median)
 
 สำหรับ GitHub นี้ แอดออกแบบมาสำหรับนักเรียนที่ไม่เคยเขียนโปรแกรมมาก่อนเลย ติดตั้งโปรแกรม ดาวน์โหลด slide และไฟล์ตัวอย่าง ใช้เวลาเรียนตามบทเรียนด้านล่างประมาณ 1-2 ชั่วโมง ps. SQL ไม่ยาก จริงๆเรียนพื้นฐานคร่าวๆก็ต่อยอดได้สบายๆแล้ว
 

@@ -25,7 +25,7 @@ SELECT
 FROM customers;
 
 -- create new columns
-SEELCT
+SELECT
   milliseconds/ 60000.0 AS minutes,
   bytes/ (1024.0 * 1024.0) AS mb
 FROM tracks;

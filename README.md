@@ -25,6 +25,8 @@ SQL ย่อมาจาก Structured (English) Query Language เป็นภ
 * ดาวน์โหลด slide ฟรีของเราได้ที่ [Google Drive](https://bit.ly/DATASQL2020)
 * หรือจะดู slide presentation แบบออนไลน์ได้ที่ [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQm7AjgNkdqIG_nRce1ZLHTnq_hW_PhDqFDtSNwj_1IyarEKrMfNIpT32ljphHMhg/pub?start=false&loop=false&delayms=3000)
 
+ติดตั้งโปรแกรมเสร็จแล้ว เปิด DB Browser คลิก `Open Database` เลือกไฟล์ chinook.db คลิก `Open` เพื่อเริ่มเรียน
+
 ### เรียน SQL ตามลำดับนี้
 
 ถ้าไม่เคยเขียน SQL มาก่อน แอดแนะนำให้ทุกคนเรียนตามบทเรียนนี้เลย เรียนจบ SELECT และ WHERE ก็สามารถดึงข้อมูลง่ายๆจาก database ได้แล้ว :D

@@ -25,3 +25,6 @@ SELECT
 FROM customers
 ORDER BY randNum
 LIMIT 10;
+
+-- round decimal digits e.g. two digits
+SELECT ROUND(AVG(bytes), 2) FROM tracks;

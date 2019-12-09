@@ -23,6 +23,7 @@ SQL ย่อมาจาก Structured (English) Query Language เป็นภ
 * ดาวน์โหลดโปรแกรมฟรี [DB Browser](https://sqlitebrowser.org/)
 * ดาวน์โหลดไฟล์ [chinook.db](https://github.com/datarockie/intro-sql/blob/master/chinook.db) ใน GitHub นี้
 * ดาวน์โหลด slide ฟรีของเราได้ที่ [Google Drive](https://bit.ly/DATASQL2020)
+* หรือจะดู slide presentation แบบออนไลน์ได้ที่ [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQm7AjgNkdqIG_nRce1ZLHTnq_hW_PhDqFDtSNwj_1IyarEKrMfNIpT32ljphHMhg/pub?start=false&loop=false&delayms=3000)
 
 ### เรียน SQL ตามลำดับนี้
 

@@ -40,7 +40,7 @@ SQL ย่อมาจาก Structured (English) Query Language เป็นภ
 7. `ORDER BY`
 8. `JOIN`
 9. `CASE WHEN`
-10. Subqueries (coming soon)
+10. Subqueries
 11. `CREATE VIEW` (coming soon)
 12. `CREATE TABLE` (coming soon)
 

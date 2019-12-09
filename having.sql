@@ -7,6 +7,7 @@ SELECT
   country,
   COUNT(*) AS n
 FROM customers
+GROUP BY country
 HAVING n >= 5;
 
 -- we can write HAVING just like we did with WHERE clause
@@ -14,4 +15,5 @@ SELECT
   country,
   COUNT(*) AS n
 FROM customers
+GROUP BY country
 HAVING n >= 5 AND country <> 'USA';

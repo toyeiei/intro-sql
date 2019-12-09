@@ -13,12 +13,15 @@
 * `SELECT`
 * `WHERE`
 * Aggregate Functions: `AVG` `SUM` `MIN` `MAX` `COUNT`
-* Value Functions: `UPPER` `LOWER` `COALESCE` `RANDOM`
+* Value Functions: `UPPER` `LOWER` `COALESCE` `RANDOM` `ROUND`
 * `GROUP BY`
 * `HAVING`
 * `ORDER BY`
 * `JOIN`
 * `CASE WHEN`
+* Subqueries (coming soon)
+* `CREATE VIEW` (coming soon)
+* `CREATE TABLE` (coming soon)
 
 มีคำถาม? ทักแชทแอดได้ที่ m.me/datarockie :)
 ติดตามเราทาง facebook: datarockie

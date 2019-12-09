@@ -38,3 +38,9 @@ SELECT 50 / 3;
 
 -- select distinct values
 SELECT DISTINCT country FROM customers;
+
+-- select top 10 rows
+SELECT * FROM customers LIMIT 10;
+
+-- note: other SQL may use this query to select top ten records
+-- SELECT TOP 10 * FROM customers;

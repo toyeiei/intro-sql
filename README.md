@@ -2,6 +2,8 @@
 
 `Course`: พื้นฐานการเขียน SQL สำหรับ Data Analyst
 
+`Reference`: ไฟล์ตัวอย่าง chinook.db และ ER diagram จากเว็บไซต์ [SQLite Tutorial](https://www.sqlitetutorial.net/)
+
 ### ทำไมต้องเรียน SQL
 
 SQL ย่อมาจาก Structured (English) Query Language เป็นภาษาทางการที่ใช้ทำงานกับ (relational) database มาตั้งแต่ปี 1970s คิดค้นโดยนักวิจัยของ IBM สำหรับงานด้าน data analytics SQL คือภาษาแรกที่ทุกคนควรเขียนให้เป็น จะได้ดึงข้อมูลจาก database มาวิเคราะห์ต่อได้ อ้างอิงจากเว็บไซต์ [payscale](https://www.payscale.com/research/TH/Job=Data_Analyst/Salary) รายได้เฉลี่ยของ SQL data analyst อยู่ที่ 360,000 บาทต่อปี (สูงสุดคือ 2 ล้านบาท)

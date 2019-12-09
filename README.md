@@ -24,7 +24,7 @@ SQL ย่อมาจาก Structured (English) Query Language เป็นภ
 * ดาวน์โหลดไฟล์ [chinook.db](https://github.com/datarockie/intro-sql/blob/master/chinook.db) ใน GitHub นี้
 * ดาวน์โหลด slide ฟรีของเราได้ที่ [Google Drive](https://bit.ly/DATASQL2020)
 
-### เรียน SQL tutorial ตามลำดับนี้
+### เรียน SQL ตามลำดับนี้
 
 ถ้าไม่เคยเขียน SQL มาก่อน แอดแนะนำให้ทุกคนเรียนตามบทเรียนนี้เลย เรียนจบ SELECT และ WHERE ก็สามารถดึงข้อมูลง่ายๆจาก database ได้แล้ว :D
 
@@ -43,7 +43,7 @@ SQL ย่อมาจาก Structured (English) Query Language เป็นภ
 
 ### เริ่มต้นอย่างรวดเร็ว
 
-SQL clauses ที่เราใช้ประจำคือ `SELECT` และ `WHERE` โดย `SELECT` ใช้เลือกคอลัมน์และ `WHERE` ใช้ฟิลเตอร์ข้อมูล ตัวอย่าง Query ด้านล่างเลือกทุกคอลัมน์จากตาราง customers และฟิลเตอร์เฉพาะลูกค้าที่อาศัยอยู่ในประเทศ USA
+SQL clauses ที่เราใช้ประจำคือ `SELECT` และ `WHERE` โดย `SELECT` ใช้เลือกคอลัมน์และ `WHERE` ใช้ฟิลเตอร์ข้อมูล ตัวอย่าง query ด้านล่างเลือกทุกคอลัมน์จากตาราง customers และฟิลเตอร์เฉพาะลูกค้าที่อาศัยอยู่ในประเทศ USA
 
 ```SQL
 -- standard query
@@ -57,6 +57,13 @@ WHERE country = 'USA';
 SELECT firstname, lastname, country, email
 FROM customers
 WHERE country = 'USA';
+```
+
+ถ้าต้องการกำหนดจำนวนแถวของข้อมูลที่ดึงออกมา ให้ใช้ `LIMIT` clause ตัวอย่าง query ด้านล่าง return top 10 rows จากตาราง customers
+
+```SQL
+SELECT * FROM customers
+LIMIT 10;
 ```
 
 ### มีคำถาม ทักแอดมาเลย

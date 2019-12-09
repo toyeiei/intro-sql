@@ -28,12 +28,6 @@ SQL ย่อมาจาก Structured (English) Query Language เป็นภ
 
 ถ้าไม่เคยเขียน SQL มาก่อน แอดแนะนำให้ทุกคนเรียนตามบทเรียนนี้เลย เรียนจบ SELECT และ WHERE ก็สามารถดึงข้อมูลง่ายๆจาก database ได้แล้ว :D
 
-```SQL
--- select these columns from customers table
-SELECT firstname, lastname, country, email
-FROM customers;
-```
-
 1. `SELECT`
 2. `WHERE`
 3. Aggregate Functions: `AVG` `SUM` `MIN` `MAX` `COUNT`
@@ -46,6 +40,24 @@ FROM customers;
 10. Subqueries (coming soon)
 11. `CREATE VIEW` (coming soon)
 12. `CREATE TABLE` (coming soon)
+
+### เริ่มต้นอย่างรวดเร็ว
+
+SQL clauses ที่เราใช้ประจำคือ `SELECT` และ `WHERE` โดย `SELECT` ใช้เลือกคอลัมน์และ `WHERE` ใช้ฟิลเตอร์ข้อมูล ตัวอย่าง Query ด้านล่างเลือกทุกคอลัมน์จากตาราง customers และฟิลเตอร์เฉพาะลูกค้าที่อาศัยอยู่ในประเทศ USA
+
+```SQL
+-- standard query
+SELECT * FROM customers
+WHERE country = 'USA';
+```
+
+เราสามารถใส่ชื่อคอลัมน์ที่ต้องการใน `SELECT` clause ได้เลยแบบนี้
+
+```SQL
+SELECT firstname, lastname, country, email
+FROM customers
+WHERE country = 'USA';
+```
 
 ### มีคำถาม ทักแอดมาเลย
 

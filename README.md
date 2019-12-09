@@ -1,10 +1,8 @@
-# intro-sql
+# Intro to SQL
 
-Want to master basic SQL for data analysis? You've come to the right place!
+`Course`: พื้นฐานการเขียน SQL สำหรับ Data Analyst
 
-Hope you like the content. Enjoy learning.
-
-### Learn these tutorials in order:
+### เรียน SQL tutorial ตามลำดับนี้
 
 * SELECT
 * WHERE
@@ -15,4 +13,5 @@ Hope you like the content. Enjoy learning.
 * ORDER BY
 * JOIN
 
-Have question, please let me know m.me/datarockie :)
+มีคำถาม? ทักแชทแอดได้ที่ m.me/datarockie :)
+ติดตามเราทาง facebook: datarockie

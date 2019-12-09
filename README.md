@@ -2,6 +2,12 @@
 
 `Course`: พื้นฐานการเขียน SQL สำหรับ Data Analyst
 
+### ทำไมต้องเรียน SQL
+
+SQL ย่อมาจาก Structured (English) Query Language เป็นภาษาทางการที่ใช้ทำงานกับ (relational) database มาตั้งแต่ปี 1970s คิดค้นโดยนักวิจัยของ IBM สำหรับงานด้าน data analytics SQL คือภาษาแรกที่ทุกคนควรเขียนให้เป็น จะได้ดึงข้อมูลจาก database มาวิเคราะห์ต่อได้ อ้างอิงจากเว็บไซต์ [payscale](https://www.payscale.com/research/TH/Job=Data_Analyst/Salary) รายได้เฉลี่ยของ SQL data analyst อยู่ที่ 360,000 บาทต่อปี (สูงสุดคือ 2 ล้านบาท)
+
+สำหรับ GitHub นี้ แอดออกแบบมาสำหรับนักเรียนที่ไม่เคยเขียนโปรแกรมมาก่อนเลย ติดตั้งโปรแกรม ดาวน์โหลด slide และไฟล์ตัวอย่าง เรียนตามบทเรียนด้านล่าง ใช้เวลาประมาณ 1-2 ชั่วโมง SQL ไม่ยาก จริงๆเรียนพื้นฐานคร่าวๆก็ต่อยอดได้สบายๆแล้ว
+
 ### เตรียมตัวก่อนเริ่มเรียน
 
 * ดาวน์โหลดโปรแกรมฟรี [DB Browser](https://sqlitebrowser.org/)
@@ -10,7 +16,13 @@
 
 ### เรียน SQL tutorial ตามลำดับนี้
 
-ถ้าไม่เคยเขียน SQL มาก่อน แอดแนะนำให้ทุกคนเรียนตามบทเรียนนี้เลย เรียนจบ SELECT และ WHERE ก็สามารถดึงข้อมูลง่ายๆจาก database เป็นแล้ว :D
+ถ้าไม่เคยเขียน SQL มาก่อน แอดแนะนำให้ทุกคนเรียนตามบทเรียนนี้เลย เรียนจบ SELECT และ WHERE ก็สามารถดึงข้อมูลง่ายๆจาก database ได้แล้ว :D
+
+```SQL
+-- select these columns from customers table
+SELECT firstname, lastname, country, email
+FROM customers;
+```
 
 1. `SELECT`
 2. `WHERE`

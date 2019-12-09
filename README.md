@@ -57,7 +57,7 @@ WHERE country = 'USA';
 เราสามารถใส่ชื่อคอลัมน์ที่ต้องการใน `SELECT` clause ได้เลยแบบนี้
 
 ```SQL
--- write columns you want in SELECT clause
+-- select columns you want in SELECT clause
 SELECT firstname, lastname, country, email
 FROM customers
 WHERE country = 'USA';

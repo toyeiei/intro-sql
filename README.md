@@ -23,5 +23,5 @@
 * EP11 - `CREATE VIEW` (coming soon)
 * EP12 - `CREATE TABLE` (coming soon)
 
-มีคำถาม? ทักแชทแอดได้ที่ m.me/datarockie :)
-ติดตามเราทาง facebook: datarockie
+มีคำถาม? ทักแชทแอดได้ที่ [FB messenger](m.me/datarockie) :)
+ติดตามเราทาง facebook: [datarockie](https://www.facebook.com/datarockie)

@@ -54,14 +54,16 @@ WHERE country = 'USA';
 เราสามารถใส่ชื่อคอลัมน์ที่ต้องการใน `SELECT` clause ได้เลยแบบนี้
 
 ```SQL
+-- write columns you want in SELECT clause
 SELECT firstname, lastname, country, email
 FROM customers
 WHERE country = 'USA';
 ```
 
-ถ้าต้องการกำหนดจำนวนแถวของข้อมูลที่ดึงออกมา ให้ใช้ `LIMIT` clause ตัวอย่าง query ด้านล่าง return top 10 rows จากตาราง customers
+ถ้าต้องการกำหนดจำนวนแถวของข้อมูลที่ดึงออกมา ให้ใช้ `LIMIT` clause
 
 ```SQL
+-- return top ten rows
 SELECT * FROM customers
 LIMIT 10;
 ```

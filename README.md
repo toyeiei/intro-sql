@@ -10,18 +10,18 @@
 
 ### เรียน SQL tutorial ตามลำดับนี้
 
-* EP01 - `SELECT`
-* EP02 - `WHERE`
-* EP03 - Aggregate Functions: `AVG` `SUM` `MIN` `MAX` `COUNT`
-* EP04 - Value Functions: `UPPER` `LOWER` `COALESCE` `RANDOM` `ROUND`
-* EP05 - `GROUP BY`
-* EP06 - `HAVING`
-* EP07 - `ORDER BY`
-* EP08 - `JOIN`
-* EP09 - `CASE WHEN`
-* EP10 - Subqueries (coming soon)
-* EP11 - `CREATE VIEW` (coming soon)
-* EP12 - `CREATE TABLE` (coming soon)
+* 01 - `SELECT`
+* 02 - `WHERE`
+* 03 - Aggregate Functions: `AVG` `SUM` `MIN` `MAX` `COUNT`
+* 04 - Value Functions: `UPPER` `LOWER` `COALESCE` `RANDOM` `ROUND`
+* 05 - `GROUP BY`
+* 06 - `HAVING`
+* 07 - `ORDER BY`
+* 08 - `JOIN`
+* 09 - `CASE WHEN`
+* 10 - Subqueries (coming soon)
+* 11 - `CREATE VIEW` (coming soon)
+* 12 - `CREATE TABLE` (coming soon)
 
 มีคำถาม? ทักแชทแอดได้ที่ [FB messenger](https://m.me/datarockie) :)
 

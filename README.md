@@ -10,18 +10,20 @@
 
 ### เรียน SQL tutorial ตามลำดับนี้
 
-* 01 - `SELECT`
-* 02 - `WHERE`
-* 03 - Aggregate Functions: `AVG` `SUM` `MIN` `MAX` `COUNT`
-* 04 - Value Functions: `UPPER` `LOWER` `COALESCE` `RANDOM` `ROUND`
-* 05 - `GROUP BY`
-* 06 - `HAVING`
-* 07 - `ORDER BY`
-* 08 - `JOIN`
-* 09 - `CASE WHEN`
-* 10 - Subqueries (coming soon)
-* 11 - `CREATE VIEW` (coming soon)
-* 12 - `CREATE TABLE` (coming soon)
+ถ้าไม่เคยเขียน SQL มาก่อน แอดแนะนำให้ทุกคนเรียนตามบทเรียนนี้เลย เรียนจบ SELECT และ WHERE ก็สามารถดึงข้อมูลง่ายๆจาก database เป็นแล้ว :D
+
+1. `SELECT`
+2. `WHERE`
+3. Aggregate Functions: `AVG` `SUM` `MIN` `MAX` `COUNT`
+4. Value Functions: `UPPER` `LOWER` `COALESCE` `RANDOM` `ROUND`
+5. `GROUP BY`
+6. `HAVING`
+7. `ORDER BY`
+8. `JOIN`
+9. `CASE WHEN`
+10. Subqueries (coming soon)
+11. `CREATE VIEW` (coming soon)
+12. `CREATE TABLE` (coming soon)
 
 มีคำถาม? ทักแชทแอดได้ที่ [FB messenger](https://m.me/datarockie) :)
 

@@ -10,7 +10,7 @@ WHERE bytes = (
   SELECT MAX(bytes) FROM tracks -- inner query
 );
 
--- example 2: find tracks whose MB less than average MB in tracks table
+-- example 2: find tracks whose bytes less than avg_bytes in tracks table
 SELECT trackid, name, bytes FROM tracks
 WHERE bytes < (
   SELECT AVG(bytes) FROM tracks

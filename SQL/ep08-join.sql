@@ -8,7 +8,7 @@ SELECT
   B.title AS albumName
 FROM artists AS A
 JOIN albums AS B
-ON A.artistid = B.artistid;
+  ON A.artistid = B.artistid; -- primary key = foreign key
 
 -- inner join more than two tables
 SELECT
@@ -17,9 +17,9 @@ SELECT
   C.name AS trackName
 FROM artists AS A
 JOIN albums AS B
-ON A.artistid = B.artistid
+  ON A.artistid = B.artistid
 JOIN tracks AS C
-ON B.albumid = C.albumid;
+  ON B.albumid = C.albumid;
 
 -- left join can be written the same way as inner join
 SELECT
@@ -28,6 +28,6 @@ SELECT
   C.name AS trackName
 FROM artists AS A
 LEFT JOIN albums AS B
-ON A.artistid = B.artistid
+  ON A.artistid = B.artistid
 LEFT JOIN tracks AS C
-ON B.albumid = C.albumid;
+  ON B.albumid = C.albumid;

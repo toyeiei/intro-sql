@@ -1,0 +1,101 @@
+NO,MOVIE_NAME,YEAR,RATING,LENGTH,GENRE,SCORE
+1,The Shawshank Redemption,1994,R,142,Drama,9.3
+2,The Godfather,1972,R,175,"Crime, Drama",9.2
+3,The Dark Knight,2008,PG-13,152,"Action, Crime, Drama",9
+4,The Godfather: Part II,1974,R,202,"Crime, Drama",9
+5,The Lord of the Rings: The Return of the King,2003,PG-13,201,"Action, Adventure, Drama",8.9
+6,Pulp Fiction,1994,R,154,"Crime, Drama",8.9
+7,Schindler's List,1993,R,195,"Biography, Drama, History",8.9
+8,12 Angry Men,1957,Approved,96,"Crime, Drama",8.9
+9,Inception,2010,PG-13,148,"Action, Adventure, Sci-Fi",8.8
+10,Fight Club,1999,R,139,Drama,8.8
+11,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,"Action, Adventure, Drama",8.8
+12,Forrest Gump,1994,PG-13,142,"Drama, Romance",8.8
+13,"The Good, the Bad and the Ugly",1966,R,178,Western,8.8
+14,Hamilton,2020,PG-13,160,"Biography, Drama, History",8.7
+15,The Lord of the Rings: The Two Towers,2002,PG-13,179,"Action, Adventure, Drama",8.7
+16,The Matrix,1999,R,136,"Action, Sci-Fi",8.7
+17,Goodfellas,1990,R,146,"Biography, Crime, Drama",8.7
+18,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,"Action, Adventure, Fantasy",8.7
+19,One Flew Over the Cuckoo's Nest,1975,R,133,Drama,8.7
+20,Parasite,2019,R,132,"Comedy, Drama, Thriller",8.6
+21,Interstellar,2014,PG-13,169,"Adventure, Drama, Sci-Fi",8.6
+22,City of God,2002,R,130,"Crime, Drama",8.6
+23,Spirited Away,2001,PG,125,"Animation, Adventure, Family",8.6
+24,Saving Private Ryan,1998,R,169,"Drama, War",8.6
+25,The Green Mile,1999,R,189,"Crime, Drama, Fantasy",8.6
+26,Life Is Beautiful,1997,PG-13,116,"Comedy, Drama, Romance",8.6
+27,Se7en,1995,R,127,"Crime, Drama, Mystery",8.6
+28,The Silence of the Lambs,1991,R,118,"Crime, Drama, Thriller",8.6
+29,Star Wars: Episode IV - A New Hope,1977,PG,121,"Action, Adventure, Fantasy",8.6
+30,Harakiri,1962,Not Rated,133,"Action, Drama, Mystery",8.6
+31,Seven Samurai,1954,Not Rated,207,"Action, Adventure, Drama",8.6
+32,It's a Wonderful Life,1946,PG,130,"Drama, Family, Fantasy",8.6
+33,Joker,2019,R,122,"Crime, Drama, Thriller",8.5
+34,Whiplash,2014,R,106,"Drama, Music",8.5
+35,The Intouchables,2011,R,112,"Biography, Comedy, Drama",8.5
+36,The Prestige,2006,PG-13,130,"Drama, Mystery, Sci-Fi",8.5
+37,The Departed,2006,R,151,"Crime, Drama, Thriller",8.5
+38,The Pianist,2002,R,150,"Biography, Drama, Music",8.5
+39,Gladiator,2000,R,155,"Action, Adventure, Drama",8.5
+40,American History X,1998,R,119,Drama,8.5
+41,The Usual Suspects,1995,R,106,"Crime, Mystery, Thriller",8.5
+42,Léon: The Professional,1994,R,110,"Action, Crime, Drama",8.5
+43,The Lion King,1994,G,88,"Animation, Adventure, Drama",8.5
+44,Terminator 2: Judgment Day,1991,R,137,"Action, Sci-Fi",8.5
+45,Cinema Paradiso,1988,R,155,Drama,8.5
+46,Grave of the Fireflies,1988,Not Rated,89,"Animation, Drama, War",8.5
+47,Back to the Future,1985,PG,116,"Adventure, Comedy, Sci-Fi",8.5
+48,Anand,1971,Not Rated,122,"Drama, Musical",8.5
+49,Once Upon a Time in the West,1968,PG-13,165,Western,8.5
+50,Psycho,1960,R,109,"Horror, Mystery, Thriller",8.5
+51,Casablanca,1942,PG,102,"Drama, Romance, War",8.5
+52,Modern Times,1936,G,87,"Comedy, Drama, Family",8.5
+53,City Lights,1931,G,87,"Comedy, Drama, Romance",8.5
+54,Capharnaüm,2018,R,126,Drama,8.4
+55,Ayla: The Daughter of War,2017,,125,"Biography, Drama, History",8.4
+56,Your Name.,2016,PG,106,"Animation, Drama, Fantasy",8.4
+57,Dangal,2016,Not Rated,161,"Action, Biography, Drama",8.4
+58,Spider-Man: Into the Spider-Verse,2018,PG,117,"Animation, Action, Adventure",8.4
+59,Avengers: Endgame,2019,PG-13,181,"Action, Adventure, Drama",8.4
+60,Avengers: Infinity War,2018,PG-13,149,"Action, Adventure, Sci-Fi",8.4
+61,Coco,2017,PG,105,"Animation, Adventure, Family",8.4
+62,Django Unchained,2012,R,165,"Drama, Western",8.4
+63,The Dark Knight Rises,2012,PG-13,164,"Action, Adventure",8.4
+64,3 Idiots,2009,PG-13,170,"Comedy, Drama",8.4
+65,Taare Zameen Par,2007,PG,165,"Drama, Family",8.4
+66,WALL·E,2008,G,98,"Animation, Adventure, Family",8.4
+67,The Lives of Others,2006,R,137,"Drama, Mystery, Thriller",8.4
+68,Oldboy,2003,R,120,"Action, Drama, Mystery",8.4
+69,Memento,2000,R,113,"Mystery, Thriller",8.4
+70,Princess Mononoke,1997,PG-13,134,"Animation, Adventure, Fantasy",8.4
+71,Once Upon a Time in America,1984,R,229,"Crime, Drama",8.4
+72,Raiders of the Lost Ark,1981,PG,115,"Action, Adventure",8.4
+73,The Shining,1980,R,146,"Drama, Horror",8.4
+74,Apocalypse Now,1979,R,147,"Drama, Mystery, War",8.4
+75,Alien,1979,R,117,"Horror, Sci-Fi",8.4
+76,High and Low,1963,Not Rated,143,"Crime, Drama, Mystery",8.4
+77,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,Comedy,8.4
+78,Witness for the Prosecution,1957,Approved,116,"Crime, Drama, Mystery",8.4
+79,Paths of Glory,1957,Approved,88,"Drama, War",8.4
+80,Rear Window,1954,PG,112,"Mystery, Thriller",8.4
+81,Sunset Blvd.,1950,Passed,110,"Drama, Film-Noir",8.4
+82,The Great Dictator,1940,Passed,125,"Comedy, Drama, War",8.4
+83,1917,2019,R,119,"Drama, War",8.3
+84,Uri: The Surgical Strike,2019,Not Rated,138,"Action, Drama, War",8.3
+85,Tumbbad,2018,Not Rated,104,"Drama, Fantasy, Horror",8.3
+86,Andhadhun,2018,Not Rated,139,"Crime, Thriller",8.3
+87,Drishyam,2013,Not Rated,160,"Crime, Drama, Thriller",8.3
+88,The Hunt,2012,R,115,Drama,8.3
+89,A Separation,2011,PG-13,123,"Drama, Thriller",8.3
+90,Incendies,2010,R,131,"Drama, Mystery, War",8.3
+91,Yedinci Kogustaki Mucize,2019,,132,Drama,8.3
+92,Babam ve Oglum,2005,,112,"Drama, Family",8.3
+93,Toy Story 3,2010,G,103,"Animation, Adventure, Comedy",8.3
+94,Inglourious Basterds,2009,R,153,"Adventure, Drama, War",8.3
+95,Eternal Sunshine of the Spotless Mind,2004,R,108,"Drama, Romance, Sci-Fi",8.3
+96,Amélie,2001,R,122,"Comedy, Romance",8.3
+97,Snatch,2000,R,102,"Comedy, Crime",8.3
+98,Requiem for a Dream,2000,R,102,Drama,8.3
+99,American Beauty,1999,R,122,Drama,8.3
+100,Good Will Hunting,1997,R,126,"Drama, Romance",8.3
